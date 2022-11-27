@@ -27,6 +27,5 @@ public class MappingController {
     public String mappingConsumes(){
         log.info("mappingConsumes");
         return "ok";
-
    }
 }
